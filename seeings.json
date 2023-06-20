@@ -1,0 +1,13 @@
+{
+    "window.zoomLevel": 2,
+    "git.openRepositoryInParentFolders": "never",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.minimap.enabled": false,
+    "terminal.integrated.inheritEnv": false,
+    "workbench.colorCustomizations": {
+        "list.inactiveSelectionBackground": "#3373b3",
+        "tab.activeBackground": "#0f3851"
+    }
+}
